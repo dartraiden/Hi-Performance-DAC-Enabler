@@ -7,5 +7,7 @@ MODDIR=${0%/*}
 # Enable Hi_performance mode of your wcd9xx DAC
 su
 DIR=$(find /sys/module -name high_perf_mode)
+DIR2=$(find /sys/module -name impedance_detect_en)
 chmod 0777 $MODDIR/post-fs-data.sh
 busybox echo "1" > $DIR
+busybox echo "1" > $DIR2
