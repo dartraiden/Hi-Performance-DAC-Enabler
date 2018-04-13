@@ -3,5 +3,5 @@ name=Hi-Performance DAC Enabler
 version=v1.1
 versionCode=1.1
 author=androidexpert35
-description=Enable High Performance mode on Qualcomm's WCD9xx DAC
+description=Enable High-Performance mode and automatic mode of headphones impedance recognition on Qualcomm's WCD9xx DAC
 template=1
