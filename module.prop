@@ -1,7 +1,7 @@
-id=mido_soundmod
-name=Sound mod for Mido
-version=v1.0
-versionCode=1.0
-author=Curi0
-description=Increases maximum volume and enables high-performance DAC
+id=Hi-performance_DAC_enabler
+name=Hi-Performance DAC Enabler
+version=v1.1
+versionCode=1.1
+author=androidexpert35
+description=Enable High Performance mode on Qualcomm's WCD9xx DAC
 template=1
