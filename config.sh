@@ -44,7 +44,7 @@ print_modname() {
   ui_print "                               "
   ui_print "  Hi-Performance DAC Enabler!  "
   ui_print "                               "
-  ui_print "     By @androidexpert35       "
+  ui_print " By @androidexpert35 and Curi0 "
   ui_print "                               "
   ui_print "*******************************"
 }
